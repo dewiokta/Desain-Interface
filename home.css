@@ -1,0 +1,42 @@
+body{
+    background: url(bg4.png);
+    background-size: cover;
+}
+h1{
+    position: absolute;
+    text-align: left;
+    margin-left: 300px;
+    font-style: oblique;
+    font-family: cursive;
+    color: blue;
+}
+.course{
+    background-color: pink;
+}
+a{
+    color: white;
+    background-color: white;
+}
+
+.wlc{
+    position: absolute;
+    margin-left: 300px;
+}
+
+.card2{
+    height: 200px;
+    margin-top: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+}
+
+.pay{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 90px;
+}
+
+.hrg{
+    text-align: right;
+}
